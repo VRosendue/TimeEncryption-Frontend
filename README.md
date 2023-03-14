@@ -1,6 +1,8 @@
 # TimeEncryption-Frontend
 
-Summary: Quick project to Decrypt data from a server, which will (on an interval between 30 seconds and 2½ minutes) ping the server, and decrypt the data
+Summary: Quick project to Decrypt data from a server, which will (on an interval between 30 seconds and 2½ minutes) ping the server, and decrypt the data - This is extremely barebones to accomodate ease of use
+
+Technologies used: vanillaJS/HTML
 
 How-to: 
 1. Download as ZIP-file -> Unzip and open in VSCode
